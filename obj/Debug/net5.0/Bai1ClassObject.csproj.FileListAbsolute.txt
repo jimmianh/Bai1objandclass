@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\Bai1ClassObject.exe
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\Bai1ClassObject.deps.json
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\Bai1ClassObject.runtimeconfig.json
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\Bai1ClassObject.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\Bai1ClassObject.dll
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\ref\Bai1ClassObject.dll
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\bin\Debug\net5.0\Bai1ClassObject.pdb
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.AssemblyInfo.cs
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.dll
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\ref\Bai1ClassObject.dll
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.pdb
+C:\Users\DELL\source\repos\hêlôwua\Bai1ClassObject\obj\Debug\net5.0\Bai1ClassObject.genruntimeconfig.cache
